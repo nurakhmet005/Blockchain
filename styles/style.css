@@ -603,7 +603,7 @@ body {
 .contact__polygon-left {
   position: absolute;
   top: -8%;
-  animation: spin 60s linear infinite reverse;
+  animation: spin 80s linear infinite reverse;
 }
 
 .contact__polygon-right {
@@ -611,15 +611,15 @@ body {
   right: 0;
   bottom: -20%;
 
-  animation: spin 60s linear infinite reverse;
+  animation: spin 80s linear infinite reverse;
 }
 
 .contact__polygon-middle {
   position: absolute;
   bottom: -10%;
   left: 20%;
-  -webkit-animation: spin 60s linear infinite;
-  animation: spin 60s linear infinite;
+  -webkit-animation: spin 80s linear infinite;
+  animation: spin 80s linear infinite;
 }
 
 /* FOOTER */
